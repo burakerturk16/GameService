@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ringo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ringo\\.nuget\\packages"
+    ]
+  }
+}

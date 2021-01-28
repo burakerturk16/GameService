@@ -1,0 +1,13 @@
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\bin\Debug\netcoreapp3.1\GameService.exe
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\bin\Debug\netcoreapp3.1\GameService.deps.json
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\bin\Debug\netcoreapp3.1\GameService.runtimeconfig.json
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\bin\Debug\netcoreapp3.1\GameService.runtimeconfig.dev.json
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\bin\Debug\netcoreapp3.1\GameService.dll
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\bin\Debug\netcoreapp3.1\GameService.pdb
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\obj\Debug\netcoreapp3.1\GameService.csprojAssemblyReference.cache
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\obj\Debug\netcoreapp3.1\GameService.AssemblyInfoInputs.cache
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\obj\Debug\netcoreapp3.1\GameService.AssemblyInfo.cs
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\obj\Debug\netcoreapp3.1\GameService.csproj.CoreCompileInputs.cache
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\obj\Debug\netcoreapp3.1\GameService.dll
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\obj\Debug\netcoreapp3.1\GameService.pdb
+C:\Users\ringo\source\repos\YoutubeCourse\GameService\obj\Debug\netcoreapp3.1\GameService.genruntimeconfig.cache
